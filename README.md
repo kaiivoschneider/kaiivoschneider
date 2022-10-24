@@ -15,5 +15,5 @@
 <br/>
 <br/>
 <h3>My nervous anxiety bundle 'Luke'</h3>
-<img src="images/Luke.jpg" height="500em" alt=Picture of dog Luke" />
+<img src="images/Luke_Pumpkinfield.jpg" height="500em" alt=Picture of my dog Luke" />
 
