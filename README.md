@@ -7,9 +7,7 @@
     <br/>
 </div>
 <br/>
-<br/>
 <h3>About me</h3>
-<br/>
 <h4 align="left"> :round_pushpin: Düsseldorf, Germany</h4>
 <h4 align="left"> :desktop_computer: Working as Application Automation Engineering Specialist @ Accenture Gmbh</h4>
 <h4 align="left"> :mailbox: Contact me at <a href="https://www.linkedin.com/in/kaiivo/" title="LinkedIn">LinkedIn</a></h4>
